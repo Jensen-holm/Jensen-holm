@@ -24,4 +24,4 @@ free to reach out to me for inquires.
  - I was a part of a NCAA DII national championship winning indoor track and field team 💍
 
 ### 📧 Contact
-feel free to reach out to me at holmj@mail.gvsu.edu for any inquires!
+feel free to reach out to me at holmj@mail.gvsu.edu or jensen.dev.01@gmail.com for any inquires!
