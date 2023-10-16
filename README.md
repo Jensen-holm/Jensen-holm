@@ -6,7 +6,15 @@ Club, and being involved in other clubs as well like the chess club. I've change
 I enjoy doing with computing and I haven't looked back since. I went to high school on the east side of Michigan in Chelsea, MI 
 where I ran track and field and cross country. Now, my hobbies include cycling, running, and working on programming projects on the side.
 
-### Fun Facts:
+### Ongoing work
+I am currently working on the finishing touches to my personal project portfolio website and my Neural Network from scratch projects.
+
+### Currently looking for:
+I am currently looking for an internship for summer 2024. With my experience as a software engineer intern at White Pine Digital, computer science tutoring at GVSU, 
+and data science experience at the Kalamazoo Growlers I would be a valueable asset to any company looking for a software engineer or data science intern. Please feel
+free to reach out to me for inquires.
+
+### Fun Facts
  - I am a liscensed chauffeur 🚚
  - I'm a big Cincinnati Reds fan ⚾️
  - I've ran a mile in 4:11 & a 5k in 14:36 🏃🏼‍♂️
@@ -14,3 +22,7 @@ where I ran track and field and cross country. Now, my hobbies include cycling, 
  - I've rode my bike across the Michigan in one trip multiple times 🚴‍♂️
  - I was a part of 3 MSHAA high school state championship winning teams 💍
  - I was a part of a NCAA DII national championship winning indoor track and field team 💍
+
+
+### Contact
+feel free to reach out to me at holmj@mail.gvsu.edu for any inquires!
