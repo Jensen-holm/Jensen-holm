@@ -1,6 +1,6 @@
 # Jensen Holm
 ### 👋 About me
-I am a senior at Grand Valley State University (GVSU) majoring in Computer Science with a minor in Data Science.
+I am a rising senior at Grand Valley State University (GVSU) majoring in Computer Science with a minor in Data Science.
 I've had quite the college experience so far as a varsity student athlete on the Track and Field & Cross Country teams, founding the Sports Analytics 
 Club, and being involved in other clubs as well like the chess club. I've changed my major a few times, starting undecided, but eventually I found what 
 I enjoy doing with computing and I haven't looked back since. I went to high school on the east side of Michigan in Chelsea, MI 
