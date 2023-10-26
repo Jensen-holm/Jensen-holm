@@ -7,7 +7,7 @@ I enjoy doing with computing and I haven't looked back since. I went to high sch
 where I ran track and field and cross country. Now, my hobbies include cycling, running, and working on programming projects on the side.
 
 ### 👨🏻‍💻 Ongoing work
-I am currently working on the finishing touches to my personal project portfolio website and my Neural Network from scratch projects.
+Currently I am focused on school work, and beginning an undergraduate research project related to HPC. For the undergraduate research project, I am currently working in the repo named 'automatic-octo-fiesta' which contains code for getting aquainted with different parallel, distributed, and GPU computing. 
 
 ### 🔭 Currently looking for ...
 I am currently looking for an internship for summer 2024. With my experience as a software engineer intern at White Pine Digital, computer science tutoring at GVSU, 
@@ -15,6 +15,7 @@ and data science experience at the Kalamazoo Growlers I would be a valueable ass
 free to reach out to me for inquires.
 
 ### 😄 Fun Facts
+ - I am a semi professional cyclist for [COSDI](https://cosdiracing.com/) 🚴
  - I am a liscensed chauffeur 🚚
  - I'm a big Cincinnati Reds fan ⚾️
  - I've ran a mile in 4:11 & a 5k in 14:36 🏃🏼‍♂️
@@ -24,4 +25,4 @@ free to reach out to me for inquires.
  - I was a part of a NCAA DII national championship winning indoor track and field team 💍
 
 ### 📧 Contact
-feel free to reach out to me at holmj@mail.gvsu.edu or jensen.dev.01@gmail.com for any inquires!
+Feel free to reach out to me via email at holmj@mail.gvsu.edu for any inquires
