@@ -1,11 +1,17 @@
 # Jensen Holm
+
+<div class="center">
+
+
 <div id="badges">
-    <a href="https://linkedin.com/in/jensen-holm">
+    <a href="https://linkedin.com/in/jensen-holm" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin badge">
     </a>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=Jensen-holm&style=flat-square&color=blue" alt="github views"/>
+
+</div>
 
 ### 👋 About me
 I am a rising senior at Grand Valley State University (GVSU) majoring in Computer Science with a minor in Data Science.
