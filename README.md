@@ -1,6 +1,8 @@
 # Jensen Holm
 
 <div align="center">
+<img src="https://i.gifer.com/embedded/download/XSv3.gif" alt="computing gif" />
+    
 <div id="badges">
     <a href="https://linkedin.com/in/jensen-holm" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin badge">
