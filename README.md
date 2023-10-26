@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-### 👋 About me
+    <h3>👋 About me</h3>
 </div>
 I am a rising senior at Grand Valley State University (GVSU) majoring in Computer Science with a minor in Data Science.
 I've had quite the college experience so far as a varsity student athlete on the Track and Field & Cross Country teams, founding the Sports Analytics 
@@ -21,7 +21,7 @@ I enjoy doing with computing and I haven't looked back since. I went to high sch
 where I ran track and field and cross country. Now, my hobbies include cycling, running, and working on programming projects on the side.
 
 <div align="center">
-### 👨🏻‍💻 Ongoing work
+    <h3>👨🏻‍💻 Ongoing work</h3>
 </div>
 Currently I am focused on school work, and beginning an undergraduate research project related to HPC. For the undergraduate research project, I am currently working in the repo named 'automatic-octo-fiesta' which contains code for getting aquainted with different parallel, distributed, and GPU computing. 
 
@@ -33,7 +33,7 @@ and data science experience at the Kalamazoo Growlers I would be a valueable ass
 free to reach out to me for inquires.
 
 <div align="center">
-### 😄 Fun Facts
+    <h3>😄 Fun Facts</h3>
 </div>
  - I am a semi professional cyclist for [COSDI](https://cosdiracing.com/) 🚴
  - I am a liscensed chauffeur 🚚
@@ -45,7 +45,7 @@ free to reach out to me for inquires.
  - I was a part of a NCAA DII national championship winning indoor track and field team 💍
 
 <div align="center">
-### 📧 Contact
+    <h3>📧 Contact</h3>
 </div>
 Feel free to reach out to me via email at holmj@mail.gvsu.edu for any inquires
 
