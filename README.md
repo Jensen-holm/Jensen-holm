@@ -1,4 +1,10 @@
 # Jensen Holm
+<div id="badges">
+    <a href="www.linkedin.com/in/jensen-holm">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin badge">
+    </a>
+</div>
+
 ### 👋 About me
 I am a rising senior at Grand Valley State University (GVSU) majoring in Computer Science with a minor in Data Science.
 I've had quite the college experience so far as a varsity student athlete on the Track and Field & Cross Country teams, founding the Sports Analytics 
