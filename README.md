@@ -8,7 +8,6 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=Jensen-holm&style=flat-square&color=blue" alt="github views"/>
-</div>
 
 ### 👋 About me
 I am a rising senior at Grand Valley State University (GVSU) majoring in Computer Science with a minor in Data Science.
@@ -37,3 +36,5 @@ free to reach out to me for inquires.
 
 ### 📧 Contact
 Feel free to reach out to me via email at holmj@mail.gvsu.edu for any inquires
+
+</div>
