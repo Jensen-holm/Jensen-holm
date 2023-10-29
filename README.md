@@ -22,7 +22,7 @@ I enjoy doing with computing and I haven't looked back since. I went to high sch
 where I ran track and field and cross country. Now, my hobbies include cycling, running, and working on programming projects on the side.
 
 ### 👨🏻‍💻 Ongoing work
-Currently I am focused on school work, and beginning an undergraduate research project related to HPC. For the undergraduate research project, I am currently working in the repo named 'automatic-octo-fiesta' which contains code for getting aquainted with different parallel, distributed, and GPU computing. 
+Currently I am focused on school work, and beginning an undergraduate research project in applied HPC. The exact application for reasearch is not clear yet but for the time being, I am currently working in the repo named 'HPC-SB' which contains code for getting aquainted with different parallel, distributed, and GPU computing which I will have to be familiar with for the research project. 
 
 ### 🔭 Currently looking for ...
 I am currently looking for an internship for summer 2024. With my experience as a software engineer intern at White Pine Digital, computer science tutoring at GVSU, 
