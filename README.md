@@ -1,8 +1,6 @@
 # Jensen Holm
 
 <div align="center">
-
-![](https://github.com/Jensen-holm/Jensen-holm/blob/main/XSv3.gif)
     
 <div id="badges">
     <a href="https://linkedin.com/in/jensen-holm" target="_blank">
