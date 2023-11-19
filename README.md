@@ -12,8 +12,7 @@
 <img src="https://komarev.com/ghpvc/?username=Jensen-holm&style=flat-square&color=blue" alt="github views"/>
 </div>
 
-[![Jensen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jensen-holm)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Jensen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jensen-holmtheme=github-compact)]
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vim,c,cpp,py,go,flask,docker" />
