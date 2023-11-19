@@ -13,7 +13,9 @@
 </a>
 
 ### 👋 About me
-I am a rising senior at Grand Valley State University studying computer science with a minor in data science. 
+I am a rising senior at Grand Valley State University studying computer science with a minor in data science. I have 8 months of experience in
+full stack software engineering, and I am passionate about learning and bettering myself. In my free time I am a cyclist for [COSDI](), the founder
+of the GVSU sports analytics club, and I enjoy working on personal projects. Currently I am focused on my [undergraduate research project]().
 
 ### 📧 Contact
 Feel free to reach out to me via email at holmj@mail.gvsu.edu for any inquires
