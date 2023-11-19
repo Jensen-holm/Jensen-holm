@@ -1,17 +1,18 @@
 # Jensen Holm
 
 <div align="center">
+
+<div align="center">
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vim,c,cpp," />
   </a>
 </p>
 
-
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=py,go,flask,docker," />
 </a>
-
+</div>
 
 <div id="badges">
     <a href="https://linkedin.com/in/jensen-holm" target="_blank">
