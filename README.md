@@ -12,17 +12,16 @@
 <img src="https://komarev.com/ghpvc/?username=Jensen-holm&style=flat-square&color=blue" alt="github views"/>
 </div>
 
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vim,c,cpp,py,go,flask,docker" />
-  </a>
-
 ### 👋 About me
 I am a rising senior at Grand Valley State University (GVSU) majoring in Computer Science with a minor in Data Science.
 I've had quite the college experience so far as a varsity student athlete on the Track and Field & Cross Country teams, founding the Sports Analytics 
 Club, and being involved in other clubs as well like the chess club. I've changed my major a few times, starting undecided, but eventually I found what 
 I enjoy doing with computing and I haven't looked back since. I went to high school on the east side of Michigan in Chelsea, MI 
 where I ran track and field and cross country. Now, my hobbies include cycling, running, and working on programming projects on the side.
+  
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vim,c,cpp,py,go,flask,docker" />
+</a>
 
 ### 👨🏻‍💻 Ongoing work
 Currently I am focused on school work, and beginning an undergraduate research project in applied HPC. The exact application for reasearch is not clear yet but for the time being, I am currently working in the repo named 'HPC-SB' which contains code for getting aquainted with different parallel, distributed, and GPU computing which I will have to be familiar with for the research project. 
