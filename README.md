@@ -1,7 +1,5 @@
 # Jensen Holm
 
-[![Jensen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jensen-holm&theme=github-compact)](https://github.com/Jensen-holm/github-readme-activity-graph)
-
 <img src="https://komarev.com/ghpvc/?username=Jensen-holm&style=flat-square&color=blue" alt="github views"/>
 
 <div id="badges">
@@ -20,3 +18,4 @@ I am a rising senior at Grand Valley State University studying computer science 
 ### 📧 Contact
 Feel free to reach out to me via email at holmj@mail.gvsu.edu for any inquires
 
+[![Jensen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jensen-holm&theme=github-compact)](https://github.com/Jensen-holm/github-readme-activity-graph)
