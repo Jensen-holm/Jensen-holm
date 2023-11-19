@@ -12,13 +12,9 @@
 <img src="https://komarev.com/ghpvc/?username=Jensen-holm&style=flat-square&color=blue" alt="github views"/>
 </div>
 
-### 👋 About me
-I am a rising senior at Grand Valley State University (GVSU) majoring in Computer Science with a minor in Data Science.
-I've had quite the college experience so far as a varsity student athlete on the Track and Field & Cross Country teams, founding the Sports Analytics 
-Club, and being involved in other clubs as well like the chess club. I've changed my major a few times, starting undecided, but eventually I found what 
-I enjoy doing with computing and I haven't looked back since. I went to high school on the east side of Michigan in Chelsea, MI 
-where I ran track and field and cross country. Now, my hobbies include cycling, running, and working on programming projects on the side.
-  
+[![Jensen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jensen-holm)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vim,c,cpp,py,go,flask,docker" />
 </a>
