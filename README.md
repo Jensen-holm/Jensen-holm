@@ -4,7 +4,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vim,c,cpp,py,go,flask,docker," />
+    <img src="https://skillicons.dev/icons?i=git,github,vim,c,cpp," />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,go,flask,docker," />
   </a>
 </p>
     
