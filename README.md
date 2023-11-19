@@ -1,12 +1,12 @@
 # Jensen Holm
 
-<img src="https://komarev.com/ghpvc/?username=Jensen-holm&style=flat-square&color=blue" alt="github views"/>
-
 <div id="badges">
     <a href="https://linkedin.com/in/jensen-holm" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin badge">
     </a>
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=Jensen-holm&style=flat-square&color=blue" alt="github views"/>
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vim,c,cpp,py,go,flask,docker" />
