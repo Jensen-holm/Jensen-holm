@@ -1,6 +1,12 @@
 # Jensen Holm
 
 <div align="center">
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vim,c,cpp,py,go,flask,docker," />
+  </a>
+</p>
     
 <div id="badges">
     <a href="https://linkedin.com/in/jensen-holm" target="_blank">
@@ -9,12 +15,6 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=Jensen-holm&style=flat-square&color=blue" alt="github views"/>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vim,c,cpp,py,go,flask,docker," />
-  </a>
-</p>
 
 </div>
 
