@@ -14,7 +14,8 @@
 <a>
     <img src="https://komarev.com/ghpvc/?username=Jensen-holm&style=flat-square&color=blue" alt="github views"/>
 </a>
-    
+</div>
+<div align="center">
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vim,c,cpp,py,go,flask,docker" />
 </a>
