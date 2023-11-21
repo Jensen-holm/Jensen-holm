@@ -2,7 +2,6 @@
 
 <div align="center">
     <img src="school-of-computing.png" width="400" />
-    <img src="gvsu_roster_pic.png" width="400" />
 </div>
 
 <div id="badges">
