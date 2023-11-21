@@ -4,17 +4,20 @@
     <img src="school-of-computing.png" width="200" />
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
     <a href="https://linkedin.com/in/jensen-holm" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin badge">
     </a>
-</div>
-
-<img src="https://komarev.com/ghpvc/?username=Jensen-holm&style=flat-square&color=blue" alt="github views"/>
-
+    
+<a>
+    <img src="https://komarev.com/ghpvc/?username=Jensen-holm&style=flat-square&color=blue" alt="github views"/>
+</a>
+    
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vim,c,cpp,py,go,flask,docker" />
 </a>
+    
+</div>
 
 ### 👋 About me
 I am a rising senior at Grand Valley State University studying computer science with a minor in data science. I have 8 months of experience in
