@@ -1,7 +1,7 @@
 # Jensen Holm
 
 <div align="center">
-    <img src="school-of-computing.png" width="400" />
+    <img src="school-of-computing.png" width="200" />
 </div>
 
 <div id="badges">
