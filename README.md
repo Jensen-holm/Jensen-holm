@@ -1,5 +1,10 @@
 # Jensen Holm
 
+<div align="center">
+    <img src="school-of-computing.png" width="400" />
+    <img src="gvsu_roster_pic.png" width="400" />
+</div>
+
 <div id="badges">
     <a href="https://linkedin.com/in/jensen-holm" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin badge">
