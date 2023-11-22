@@ -31,5 +31,3 @@ of the GVSU sports analytics club, and I enjoy working on personal projects. Cur
 Feel free to reach out to me via email at holmj@mail.gvsu.edu for any inquires
 [![Jensen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jensen-holm&theme=github-compact)](https://github.com/Jensen-holm/github-readme-activity-graph)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jensen-holm)](https://github.com/anuraghazr/github-readme-stats)
-
