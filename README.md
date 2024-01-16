@@ -29,5 +29,10 @@ of the GVSU sports analytics club, and I enjoy working on personal projects. Cur
 
 ### 📧 Contact
 Feel free to reach out to me via email at holmj@mail.gvsu.edu for any inquires
+
+<div class="flex justify-center items-center p-5">
+    <iframe title="" height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/16742688/activity-summary/a93a82a3b450506f7e1e805f7b490186122ce567'></iframe>
+</div>
+
 [![Jensen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jensen-holm&theme=github-compact)](https://github.com/Jensen-holm/github-readme-activity-graph)
 
