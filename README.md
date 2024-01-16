@@ -24,15 +24,11 @@
 
 ### 👋 About me
 I am a rising senior at Grand Valley State University studying computer science with a minor in data science. I have 8 months of experience in
-full stack software engineering, and I am passionate about learning and bettering myself. In my free time I am a cyclist for [COSDI](), the founder
-of the GVSU sports analytics club, and I enjoy working on personal projects. Currently I am focused on my [undergraduate research project]().
+full stack software engineering, and I am passionate about learning and bettering myself. In my free time I am a cyclist for [COSDI](https://cosdiracing.com/), the founder
+of the GVSU sports analytics club, and I enjoy working on personal projects. Currently I am focused on my [undergraduate research project](https://github.com/Jensen-holm/GPU-Accelerated-QST).
 
 ### 📧 Contact
 Feel free to reach out to me via email at holmj@mail.gvsu.edu for any inquires
-
-<div>
-    <iframe title="" height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/16742688/activity-summary/a93a82a3b450506f7e1e805f7b490186122ce567'></iframe>
-</div>
 
 [![Jensen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jensen-holm&theme=github-compact)](https://github.com/Jensen-holm/github-readme-activity-graph)
 
