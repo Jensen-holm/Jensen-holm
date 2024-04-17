@@ -17,18 +17,18 @@
 </div>
 <div align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vim,c,cpp,py,go,flask,docker" />
+    <img src="https://skillicons.dev/icons?i=git,github,vim,c,cpp,py,pytorch,numpy,R,go,flask,docker,svelte" />
 </a>
-    
+
 </div>
 
-### 👋 About me
-I am a rising senior at Grand Valley State University studying computer science with a minor in data science. I have 8 months of experience in
-full stack software engineering, and I am passionate about learning and bettering myself. In my free time I am a cyclist for [COSDI](https://cosdiracing.com/), the founder
-of the GVSU sports analytics club, and I enjoy working on personal projects. Currently I am focused on my [undergraduate research project](https://github.com/Jensen-holm/GPU-Accelerated-QST).
+[personal portfolio website](https://jensen-holm.vercel.app)
 
-### 📧 Contact
-Feel free to reach out to me via email at holmj@mail.gvsu.edu for any inquires
+### 👋 About me
+Hello! I'm a senior at [Grand Valley State University](https://www.gvsu.edu/) (GVSU), where I am pursuing a major in Computer Science and a minor in Data Science. Beyond the classroom, I am a semi-professional cyclist with [COSDI Racing](https://cosdiracing.com/), I play chess, and learning Japanese through Duolingo.
+
+I am mostly interested in applied machine learning and machine learning frameworks, and I'm currently honing my skills as an intern at [Gentex](https://www.gentex.com/), focusing on machine learning engineering. I thrive on challenges and continuous learning, and you can often find me working on various personal projects.
+
+Feel free to contact me at holmj@mail.gvsu.edu with any inquires! You can also [find me on huggingface](https://huggingface.co/Jensen-holm).
 
 [![Jensen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jensen-holm&theme=github-compact)](https://github.com/Jensen-holm/github-readme-activity-graph)
-
