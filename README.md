@@ -32,4 +32,3 @@ Feel free to contact me at holmj@mail.gvsu.edu with any inquires! You can also [
 [personal portfolio website](https://jensen-holm.vercel.app)
 
 [![Jensen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jensen-holm&theme=github-compact)](https://github.com/Jensen-holm/github-readme-activity-graph)
-<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/16742688/activity-summary/a93a82a3b450506f7e1e805f7b490186122ce567'></iframe>
