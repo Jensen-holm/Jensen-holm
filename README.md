@@ -23,9 +23,9 @@
 </div>
 
 ### 👋 About me
-Hello! I'm a senior at [Grand Valley State University](https://www.gvsu.edu/) (GVSU), where I am pursuing a major in Computer Science and a minor in Data Science. Beyond the classroom, I am a semi-professional cyclist with [COSDI Racing](https://cosdiracing.com/), I play chess, and learning Japanese through Duolingo.
+Hello! I'm a senior at [Grand Valley State University](https://www.gvsu.edu/) (GVSU), where I am pursuing a major in Computer Science and a minor in Data Science. Beyond the classroom, I enjoy distance running, and palying chess.
 
-I am mostly interested in applied machine learning and machine learning frameworks, and I'm currently honing my skills as an intern at [Gentex](https://www.gentex.com/), focusing on machine learning engineering. I thrive on challenges and continuous learning, and you can often find me working on various personal projects.
+Within the field of computer science I am mostly interested in applied machine learning and machine learning frameworks. I'm currently honing my skills as an intern at [Gentex](https://www.gentex.com/), focusing on machine learning engineering. I thrive on challenges and continuous learning, and you can often find me working on various personal projects.
 
 Feel free to contact me at holmj@mail.gvsu.edu with any inquires! You can also [find me on huggingface](https://huggingface.co/Jensen-holm).
 
