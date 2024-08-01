@@ -7,6 +7,10 @@ Here is a little bit about myself
 - 🔭 Looking for full time job upon graduation spring '25
 - ⚡ Fun fact: I am a liscensed chauffeur
 
+<p align="center">
+  <a href="https://huggingface.co/Jensen-holm">Hugging Face Profile</a>
+</p>
+
 <div align="center">
   <a href="mailto:holmj@mail.gvsu.edu" target="_blank"/>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
