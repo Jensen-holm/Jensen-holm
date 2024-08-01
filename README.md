@@ -8,18 +8,18 @@ Here is a little bit about myself
 - ⚡ Fun fact: I am a liscensed chauffeur
 
 <div align="center">
-  <a href="mailto:holmj@mail.gvsu.edu" />
+  <a href="mailto:holmj@mail.gvsu.edu" target="_blank"/>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/Jensen-holm">
+  <a href="https://www.linkedin.com/in/Jensen-holm" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 <div align="center">
-  <a href="https://medium.com/@jensen.dev.01">
+  <a href="https://medium.com/@jensen.dev.01" target="_blank">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="https://x.com/MLBTunnelBot">
+  <a href="https://x.com/MLBTunnelBot" target="_blank">
       <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
   </a>  
 </div>
