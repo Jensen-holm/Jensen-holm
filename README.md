@@ -7,10 +7,23 @@ Here is a little bit about myself
 - 🔭 Looking for full time job upon graduation spring '25
 - ⚡ Fun fact: I am a liscensed chauffeur
 
-Feel free to follow/reach out to me on Linkedin or X!
+<div align="center">
+  <a href="mailto:holmj@mail.gvsu.edu" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/Jensen-holm">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://medium.com/@jensen.dev.01">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://x.com/MLBTunnelBot">
+      <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
+  </a>  
+</div>
 
-**Socials** <br>
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:holmj@mail.gvsu.edu)
-[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jensen.dev.01)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Jensen-holm)
-[![](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/MLBTunnelBot)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,r,bash,dart,flutter,linux,flask,pytorch,tensorflow,sklearn,mysql,mongodb&perline=7">
+</div>
