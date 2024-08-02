@@ -8,5 +8,5 @@ Here is a little bit about myself
 - ⚡ Fun fact: I am a liscensed chauffeur
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,r,bash,dart,flutter,linux,flask,pytorch,tensorflow,sklearn,mysql,mongodb&perline=7">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,r,go,typescript,docker,obsidian,bash,dart,flutter,linux,flask,pytorch,tensorflow,sklearn,mysql,mongodb&perline=9">
 </div>
