@@ -9,5 +9,5 @@ Here is a little bit about myself
 - ⚡ Fun fact: I am a liscensed chauffeur
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,r,go,docker,obsidian,bash,linux,flask,pytorch,sklearn&perline=6">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,r,go,docker,bash,linux,flask,pytorch,tensorflow,sklearn&perline=6">
 </div>
