@@ -13,5 +13,5 @@ Here is a little bit about myself
 - I have twice rode a bike across Michigan's LP from W -> E
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,cpp,r,go,docker,linux,flask,pytorch,tensorflow&perline=6">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,cpp,r,go,docker,linux,flask,pytorch,tensorflow&perline=5">
 </div>
